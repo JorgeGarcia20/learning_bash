@@ -1,0 +1,39 @@
+total 28
+-rwxr-xr-x 1 jorge_garcia jorge_garcia 645 Mar 18 21:04 arguments.sh
+-rwxr-xr-x 1 jorge_garcia jorge_garcia 556 Mar 18 20:45 break_continue.sh
+-rwxr-xr-x 1 jorge_garcia jorge_garcia 290 Mar 18 18:55 case.sh
+-rwxr-xr-x 1 jorge_garcia jorge_garcia 245 Mar 18 18:46 conditonals.sh
+-rw-r--r-- 1 jorge_garcia jorge_garcia   0 Mar 18 22:12 log.txt
+-rwxr-xr-x 1 jorge_garcia jorge_garcia 708 Mar 18 19:41 loops.sh
+-rwxr-xr-x 1 jorge_garcia jorge_garcia 363 Mar 17 22:11 reading_inputs.sh
+-rwxr-xr-x 1 jorge_garcia jorge_garcia  44 Mar 18 22:12 stderr_stdout.sh
+.
+..
+arguments.sh
+break_continue.sh
+case.sh
+conditonals.sh
+log.txt
+loops.sh
+reading_inputs.sh
+stderr_stdout.sh
+total 32
+4 arguments.sh
+4 break_continue.sh
+4 case.sh
+4 conditonals.sh
+4 log.txt
+4 loops.sh
+4 reading_inputs.sh
+4 stderr_stdout.sh
+total 40K
+drwxr-xr-x 2 jorge_garcia jorge_garcia 4.0K Mar 18 22:12 .
+drwxr-xr-x 7 jorge_garcia jorge_garcia 4.0K Mar 18 18:33 ..
+-rwxr-xr-x 1 jorge_garcia jorge_garcia  645 Mar 18 21:04 arguments.sh
+-rwxr-xr-x 1 jorge_garcia jorge_garcia  556 Mar 18 20:45 break_continue.sh
+-rwxr-xr-x 1 jorge_garcia jorge_garcia  290 Mar 18 18:55 case.sh
+-rwxr-xr-x 1 jorge_garcia jorge_garcia  245 Mar 18 18:46 conditonals.sh
+-rw-r--r-- 1 jorge_garcia jorge_garcia  805 Mar 18 22:12 log.txt
+-rwxr-xr-x 1 jorge_garcia jorge_garcia  708 Mar 18 19:41 loops.sh
+-rwxr-xr-x 1 jorge_garcia jorge_garcia  363 Mar 17 22:11 reading_inputs.sh
+-rwxr-xr-x 1 jorge_garcia jorge_garcia   44 Mar 18 22:12 stderr_stdout.sh
